@@ -4,7 +4,7 @@ import './App.css'
 import Home from './pages/Home'
 import Pokedex from './pages/Pokedex'
 import PokemonDetail from './pages/PokemonDetail'
-import PrivateRoutes from './components/privateRoutes'
+import PrivateRoutes from './components/PrivateRoutes'
 
 function App() {
   
